@@ -1,0 +1,21 @@
+packages/platform/src/engine/modules/github/clone-auth.ts
+  s_77d08ed458370e::t_73ff704fe77bcd 74,203-206,208,217,230-234,341-344,355,548-554,565
+apps/api/test/modules/github/clone-auth-submodules.test.ts
+  s_77d08ed458370e::t_73ff704fe77bcd 209-212,214-235
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6826cb4583d4c489e6f63015946b4777e593f996",
+  "prompts": {},
+  "sessions": {
+    "s_77d08ed458370e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18e59-3479-7793-b411-2adffbf0300d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
